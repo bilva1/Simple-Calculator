@@ -9,7 +9,7 @@ public class ModernCalculator extends JFrame implements ActionListener {
     private char operator;
 
     public ModernCalculator() {
-        setTitle("Modern Calculator");
+        setTitle("Simple Calculator");
         setSize(350, 500);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
