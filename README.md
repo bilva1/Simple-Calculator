@@ -1,4 +1,4 @@
-# simpleCalculator
+# Simple Calculator
 
 Technologies Used:<br>
 Java 8+: The application is developed using Java, an object-oriented programming language.<br>
